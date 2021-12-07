@@ -22,13 +22,13 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
+[`Click Here`](https://github.com/fazwibu/Alphab0t7/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
-- Owner name [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
-- Botname [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
+- Owner number [Here](https://github.com/fazwibu/Alphab0t7/blob/master/settings.json#L4)
+- Owner name [Here](https://github.com/fazwibu/Alphab0t7/blob/master/settings.json#L13)
+- Botname [Here](https://github.com/fazwibu/Alphab0t7/blob/master/settings.json#L14)
 
 ## `CHANGE DYNO`
 
@@ -53,5 +53,5 @@ Off in web nya
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+X
 
